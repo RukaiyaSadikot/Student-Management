@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "id": "2",
+      "name": "Priya Patel",
+      "phone": "9876501234",
+      "email": "priya@gmail.com",
+      "age": 21,
+      "class": "BCA",
+      "grade": "A+",
+      "rollNumber": "102",
+      "image": "https://static.vecteezy.com/system/resources/previews/019/495/172/non_2x/woman-girl-avatar-user-person-people-short-hair-colored-outline-style-vector.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Niel Shah",
+      "phone": "2222222222",
+      "email": "nielshah@gmail.com",
+      "age": 19,
+      "class": "BBA",
+      "grade": "B+",
+      "rollNumber": "103",
+      "image": "https://static.vecteezy.com/system/resources/previews/011/675/374/original/man-avatar-image-for-profile-png.png"
+    },
+    {
+      "name": "Rekha Mishra",
+      "rollNumber": "101",
+      "phone": "1212121212",
+      "email": "rekha@gmail.com",
+      "age": 22,
+      "class": "MCA",
+      "grade": "A+",
+      "image": "https://static.vecteezy.com/system/resources/previews/019/495/172/non_2x/woman-girl-avatar-user-person-people-short-hair-colored-outline-style-vector.jpg",
+      "id": "TlO7at3ZmQw"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
