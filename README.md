@@ -292,19 +292,19 @@ student-app/
 ## 📸 Screenshots
 
 ### Login
-<img src="/output/login.jpeg" width="800" alt="Login Page">
+<img src="output/login.jpeg" width="800" alt="Login Page">
 
 ### Dashboard
-<img src="/output/dashboard.jpeg" width="800" alt="Login Page">
+<img src="output/dashboard.jpeg" width="800" alt="Login Page">
 
 ### Student List (Search, Sort and Filter)
-<img src="/output/view-students.jpeg" width="800" alt="Login Page">
+<img src="output/view-students.jpeg" width="800" alt="Login Page">
 
 ### Add Student
-<img src="/output/addstudent.jpeg" width="800" alt="Login Page">
+<img src="output/addstudent.jpeg" width="800" alt="Login Page">
 
 ### Profile
-<img src="/output/profile.jpeg" width="800" alt="Login Page">
+<img src="output/profile.jpeg" width="800" alt="Login Page">
 
 ---
 
